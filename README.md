@@ -1,6 +1,6 @@
-### Hola ! Soy Wilmara Ruiz 👋
+### Hello! I'm Wilmara Ruiz👋
 
-Desarrolladora Back-end. Me gusta crear aplicaciones web con: [node](https://nodejs.org/es/)/[express](http://expressjs.com/es/)/[typescript](https://www.typescriptlang.org/)/[mysql](https://www.mysql.com/)/
+I'm a back-end developer. I like to create web applications with: [node](https://nodejs.org/es/)/[express](http://expressjs.com/es/)/[typescript](https://www.typescriptlang.org/)/[mysql](https://www.mysql.com/)/
 [pgadmin](https://www.pgadmin.org/)/[mongoDb](https://www.mongodb.com/es)/[swagger](https://swagger.io/)
 
 ### Me pueden contactar en:
